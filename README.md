@@ -10,7 +10,7 @@ React Practical 05
 - CSS
 
 ## Description
-This project demonstrates the basic implementation of a React.js application.
+This project demonstrates the basic implementation of a React.js application. It is developed as part of the BCA 5th Semester practical work.
 
 ## Student Details
 Name: Krish Chetry
