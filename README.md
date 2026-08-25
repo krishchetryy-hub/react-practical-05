@@ -1,7 +1,7 @@
 # React Practical 05
 
 ## Project Title
-Frontend Foundation
+React Practical 05
 
 ## Developed Using
 - React.js
